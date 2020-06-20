@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d29da946-22a4-485d-9f0a-788cbc4ff195" name="Default Changelist" comment="" />
+    <list default="true" id="d29da946-22a4-485d-9f0a-788cbc4ff195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dV7Irn1OvZrFhxsBRwfnT6g386" />
   <component name="ProjectViewState">
@@ -15,8 +23,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -38,11 +47,24 @@
       <workItem from="1592498333328" duration="186000" />
       <workItem from="1592498523216" duration="12228000" />
       <workItem from="1592512665812" duration="36725000" />
+      <workItem from="1592635586900" duration="498000" />
     </task>
+    <task id="LOCAL-00001" summary="Reworded free text">
+      <created>1592635656913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592635656913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reworded free text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reworded free text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592498463666">
@@ -53,6 +75,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1592582670756" />
+    <state x="544" y="25" key="CommitChangelistDialog2" timestamp="1592635655633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="544" y="25" key="CommitChangelistDialog2/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1592635655633" />
     <state x="259" y="281" key="FileChooserDialogImpl" timestamp="1592498502428">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -61,5 +87,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="60" y="274" key="IDE.errors.dialog/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1592498418804" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592635661525">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/-1920.0.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1592635661525" />
   </component>
 </project>
